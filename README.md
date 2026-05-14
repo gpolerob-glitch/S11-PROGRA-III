@@ -1,6 +1,5 @@
 # Sistema Undo/Redo con Deque en Python
 
-## Descripción
 Este proyecto consiste en un sistema de edición con funcionalidades de undo y redo desarrollado en Python utilizando una estructura de datos Deque implementada manualmente.
 
 El sistema permite:
@@ -19,10 +18,6 @@ La interfaz gráfica fue desarrollada utilizando Tkinter.
 ---
 
 
-
-Ejecutar el archivo principal:
-
-python nombre_archivo.py
 
 ---
 
